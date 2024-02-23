@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f3cccd);
+}
+
+h1{
+    font-weight: bold;
+}
+.form-label{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;;
+    font-weight: bold
+}
+
+#totalExpenses {
+    margin-top: 10rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn-danger {
+    background: #c6ffdd;
+        color: black;
+        border: 1px solid black;
+}
+
+.btn:hover {
+   background-color: red;
+   color:white ;
+}
+.btn-primary {
+    background: #fa8da1;
+    color: black;
+    border: 1px solid black;
+}
+h3 {
+    padding: 0.5rem 1rem;
+    background-color: #d7798b;
+     border-radius: 25px;
+    border: 1px solid black;
+    display: inline-block;
+    margin-right: 50px;
+}
